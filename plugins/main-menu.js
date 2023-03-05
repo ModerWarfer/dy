@@ -35,14 +35,6 @@ const defaultMenu = {
 👥 Usuarios : %totalreg
 📈 Tiempo activo : %muptime
 ─────────────
-▢ Crea tu propio bot 
-• https://youtu.be/xFqjKN1Qt80
-▢ Descarga *FGWhatsApp*
-• https://fgmods.epizy.com
-─────────────
-%readmore
-Ⓟ = Premium
-ⓓ = Diamantes
 -----  -----  -----  -----  -----
   ≡ *LISTA DE MENUS*
 `.trimStart(),
