@@ -74,7 +74,7 @@ export async function handler(chatUpdate) {
                 if (!('autolevelup' in user))
                     user.autolevelup = false
                 if (!('chatbot' in user))
-                    user.chatbot = true
+                    user.chatbot = false
             } else
                 global.db.data.users[m.sender] = {
                     exp: 0,
